@@ -1,8 +1,3 @@
-#Washington Town Furnishings (WTF) is currently having its year-end appliance clearance sale. The 
-#store has 12 washing machines on sale: five are top-loaders, four are regular capacity front-loaders, 
-#and three are extra-capacity front-loaders. Each day, the company expects between 0-4 customers 
-#interested in buying a washer to arrive at the store according to the following probability distribution: 
- 
 #PMF  
 #P(0 arrivals) .15 
 #P(1 arrival) .25 
