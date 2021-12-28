@@ -1,3 +1,20 @@
+#Washington Town Furnishings (WTF) is currently having its year-end appliance clearance sale. The 
+#store has 12 washing machines on sale: five are top-loaders, four are regular capacity front-loaders, 
+#and three are extra-capacity front-loaders. Each day, the company expects between 0-4 customers 
+#interested in buying a washer to arrive at the store according to the following probability distribution: 
+ 
+#PMF  
+#P(0 arrivals) .15 
+#P(1 arrival) .25 
+#P(2 arrivals) .30 
+#P(3 arrivals) .20 
+#P(4 arrivals) .10 
+ 
+#For each customer, there is a 60% chance that the person will want to purchase one of the 12 sale-
+#priced items. Of those who are interested in washers, WTF knows that 40% desire a top-loader, 25% 
+#desire the extra-capacity front-loaders, and 35% desire a regular capacity front-loader. If the store is 
+#sold out of a particular washer, the customer will leave without making a  purchase. 
+
 runs = 1000
 days = 0
 InvCount = c()
